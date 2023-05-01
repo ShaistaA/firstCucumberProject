@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		features="./src/test/resources/features",
 		glue="step_definitions",
-		tags="@regression",
+		tags="@ItemTests",
 		dryRun=true
 		)
 public class DryRunner {
