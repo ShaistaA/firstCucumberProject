@@ -1,5 +1,4 @@
 
-
 Feature: Amazon Search
   
     #wait for the element to be visible
